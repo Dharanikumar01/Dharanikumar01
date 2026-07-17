@@ -31,11 +31,11 @@
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="mailto:dharanikumar.0624@gmail.com">
+<a href="mailto:dharanikumar.0624@gmail.com?subject=GitHub%20Contact">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="www.linkedin.com/in/dharani-kumar-bala-subramanyam-b6413a265">
+<a href="https://www.linkedin.com/in/dharani-kumar-bala-subramanyam-b6413a265/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
