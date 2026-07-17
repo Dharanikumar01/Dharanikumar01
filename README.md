@@ -1,4 +1,8 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="AI Banner">
+</p>
+
 
 # Hi 👋, I'm Dharani Kumar
 
