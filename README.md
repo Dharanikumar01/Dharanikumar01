@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="#">
+<a href="www.linkedin.com/in/dharani-kumar-bala-subramanyam-b6413a265">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
@@ -114,37 +114,6 @@
 🤖 AI Chatbots
 
 🎬 Recommendation Systems
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharanikumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanikumar01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dharanikumar01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dharanikumar01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
 
 👁️ Computer Vision
 
