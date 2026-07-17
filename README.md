@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="mailto:dharanikumar.0624@gmail.com?subject=GitHub%20Contact">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dharanikumar.0624@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
