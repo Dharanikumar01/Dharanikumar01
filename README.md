@@ -43,8 +43,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge"/>
+<a href="https://dharanikumar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
 </a>
 
 </p>
